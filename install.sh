@@ -7,3 +7,4 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 # For iterm2:  https://apple.stackexchange.com/questions/368603/how-to-make-powerline-fonts-work-with-iterm2
 
 cp -f .zshrc ~/.zshrc
+cp -f .tmux.conf ~/.tmux.conf
